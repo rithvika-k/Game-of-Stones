@@ -15,3 +15,14 @@ draws (only the computer’s would be the one that’s randomly generated) and w
 
 Includes code that prevents the user and the computer from taking an illegal number of stones. For 
 example, neither players are allowed to take three stones when there are only 1 or 2 left. 
+
+NOTE: These are the additional things/features I added to my program:
+1. Used a function 
+2. Created counter for total number of rounds played
+3. Presented in a organized and neat way with graphics 
+4. Incorporated a 'Prize' feature which gives the winner of the game a prize, unless it is a Coco the Computer. Used random.choice 
+5. Incorporated a "Fun Questionnaire" feature so that it is more interactive 
+6. Asked the user if they want to play, and then at the end of the game asked the user if they want to play again - used loops
+7. Allowed user to have the option to play against a friend or Coco the Computer
+8. Included a Game Summary 
+9. User gives a rating for the stones game
