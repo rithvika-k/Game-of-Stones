@@ -1,19 +1,6 @@
 # Rithvika Kathroju
-# Mrs.Mansi - ICS 2O1 - 1/19/2021
-# CPT - D - Game of Stones
+# 1/19/2021
 
-"""
-NOTE: These are the additional things/features I added to my program:
-1. Used a function 
-2. Created counter for total number of rounds played
-3. Presented in a organized and neat way with graphics 
-4. Incorporated a 'Prize' feature which gives the winner of the game a prize, unless it is a Coco the Computer. Used random.choice 
-5. Incorporated a "Fun Questionnaire" feature so that it is more interactive 
-6. Asked the user if they want to play, and then at the end of the game asked the user if they want to play again - used loops
-7. Allowed user to have the option to play against a friend or Coco the Computer
-8. Included a Game Summary 
-9. User gives a rating for the stones game
-"""
 # In order to generate random numbers for the number of stones the game starts with, who goes first, and the number of stones withdrawn by the computer; we have to import the random class. 
 # This will allow us to use the randint function. I will also be using the choice function for the prize feature.
 import random
